@@ -1,0 +1,1 @@
+update  patients set   allergies ='nka' where allergies is null;
